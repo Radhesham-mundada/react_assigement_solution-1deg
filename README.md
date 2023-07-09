@@ -2,6 +2,12 @@
 
 Hello and welcome! Thank you for your interest in working with us at One Degree. The following describes a made up scenario modeled from our typical product development process. Please clone or fork this repo, update the project to meet all requirements below, and upload the code to your github account.
 
+NOTE -
+please install
+npm i react-bootstrap@2.7.4 bootstrap
+
+if any bootstrap code is not working
+
 ### Scenario:
 
 On the One Degree website there are several Assessments that community members can fill out to receive more customized information about resources available for their situation. We want to build a page in React that shows some basic information about all these Assessments.
@@ -66,9 +72,3 @@ If you aren't satisfied with the build tool and configuration choices, you can `
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-NOTE -
-please install
-npm i react-bootstrap@2.7.4 bootstrap
-
-if any bootstrap code is not working
